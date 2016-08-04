@@ -4,10 +4,10 @@
     <title>Andor Chen</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://jekyll-china.com/blog/</link>
-    <atom:link href="http://jekyll-china.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Aug 2016 14:42:58 +0800</pubDate>
-    <lastBuildDate>Thu, 04 Aug 2016 14:42:58 +0800</lastBuildDate>
+    <link>http://jekyll-china.com/chapter11/</link>
+    <atom:link href="http://jekyll-china.com/chapter11/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Aug 2016 14:47:39 +0800</pubDate>
+    <lastBuildDate>Thu, 04 Aug 2016 14:47:39 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;我用 Jekyll 发布了第一篇文章，太高兴了！&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 16:45:27 +0800</pubDate>
-        <link>http://jekyll-china.com/blog/news/2016/05/21/first-post.html</link>
-        <guid isPermaLink="true">http://jekyll-china.com/blog/news/2016/05/21/first-post.html</guid>
+        <link>http://jekyll-china.com/chapter11/news/2016/05/21/first-post.html</link>
+        <guid isPermaLink="true">http://jekyll-china.com/chapter11/news/2016/05/21/first-post.html</guid>
         
         
         <category>news</category>
@@ -41,8 +41,8 @@
 
 </description>
         <pubDate>Sat, 21 May 2016 15:32:06 +0800</pubDate>
-        <link>http://jekyll-china.com/blog/jekyll/update/2016/05/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://jekyll-china.com/blog/jekyll/update/2016/05/21/welcome-to-jekyll.html</guid>
+        <link>http://jekyll-china.com/chapter11/jekyll/update/2016/05/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jekyll-china.com/chapter11/jekyll/update/2016/05/21/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
