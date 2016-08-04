@@ -55,3 +55,23 @@ task :draft do
     post.puts "---"
   end
 end
+
+desc "Push to github"
+task :push do
+  puts   "Pushing to `master' branch:"
+  system "git push origin master"
+  puts   "`master' branch updated."
+  puts
+
+  puts   "Building site...."
+  system "bundle exec jekyll build"
+  puts
+
+  cd '_site' do
+    puts   "Pushing to `gh-pages' branch:"
+    system "git add -A"
+    system "git commit -m 'Update at #{Time.now.utc}'"
+    system "git push origin gh-pages"
+    puts   "`gh-pages' branch updated."
+  end
+end
