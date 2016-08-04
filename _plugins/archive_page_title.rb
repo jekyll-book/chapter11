@@ -3,7 +3,6 @@ require_relative 'category_links'
 module Jekyll
   class ArchivePageTitleTag < Liquid::Tag
     include CategoryLinksFilter
-
     ARCHIVE_PAGE_TYPES = %w(category tag year month day)
 
     def render(context)
